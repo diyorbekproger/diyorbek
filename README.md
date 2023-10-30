@@ -73,8 +73,3 @@ sudo chmod 777 src/helpers.php
 <html data-theme="dark">
 ```
 
-### Изображения
-
-![Регистрация](https://i.imgur.com/7i1S9Pn.png)
-![Вход](https://i.imgur.com/6UKc4Lu.png)
-![Домашняя страница](https://i.imgur.com/sNrwTxE.png)
