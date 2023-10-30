@@ -1,6 +1,6 @@
 # Регистрация и авторизация на PHP
 
-#### HTML шаблон находится в ветке [layout](https://github.com/AreaWeb-Hub/login-and-register-new/tree/layout)
+#### Проэкт для Синергия ( программа Кадровый резерв )
 
 ### База данных
 
